@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-web{
+    color: white;
+    text-align: center;
+    width: 1024px;
+    margin: 20px auto;
+    box-shadow: 1px 2px black;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.menu{
+    background-color: #4b6584;
+}
+.body{
+    background-color: #222430;
+}
+.footer{
+    background-color: #f99e1a;
+}
+.footer-botom{
+    background-color: #f7c317;
+}
+
+.op{padding: 100px 0;
+
+}
+.op2{
+    padding: 30px;
+
+}
